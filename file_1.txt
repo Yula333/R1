@@ -1,2 +1,4 @@
 Hello!
 line from User1
+
+change by BRANCH2
